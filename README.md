@@ -41,6 +41,7 @@ npm run release
 # or
 yarn release
 ```
+<img width="948" alt="Screenshot 2023-04-19 at 16 50 52" src="https://user-images.githubusercontent.com/67334822/233096247-063a357e-82d9-487c-ad91-f86c33796f1c.png">
 
 ## Join our Discord!
 
